@@ -28,6 +28,6 @@ Let's talk?
 <div>
     <a href="https://www.linkedin.com/in/v%C3%ADtor-coelho-rafael-19938680/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-            alt="Vitor-Linkedin">
+            alt="Vitor-Linkedin" target="_blank">
     </a>
 </div>
