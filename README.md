@@ -10,3 +10,7 @@ About me:
 - 🇧🇷 I'm brasilian
 
 🧰 Languages and Tools:
+
+
+Let's talk?
+
