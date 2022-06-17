@@ -7,7 +7,7 @@ About me:
 - 🌱 I’m currently learning about flutter
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to learn random facts about anything really
-- 🇧🇷 I'm brasilian
+- 🇧🇷 I'm brazilian
 
 🧰 Languages and Tools:
 
@@ -31,3 +31,4 @@ Let's talk?
             target="_blank">
     </a>
 </div>
+
